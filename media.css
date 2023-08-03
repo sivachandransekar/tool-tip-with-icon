@@ -1,0 +1,58 @@
+@media(min-width:320px){
+    .container{
+        width:100%;
+        margin:auto;
+        padding:20px;
+    }
+    p{
+        text-transform: capitalize;
+        background-color: gray;
+         color: aquamarine;
+        border:1px solid black;
+        border-radius: 10px;
+        position: absolute;
+       top:50px;
+        left:110px;
+        padding:10px;
+    }
+}
+
+
+@media(min-width:660px){
+    .container{
+        width:100%;
+        margin:auto;
+        padding:20px;
+    }
+    p{
+        text-transform: capitalize;
+        background-color: gray;
+        color: aquamarine;
+        border:1px solid black;
+        border-radius: 10px;
+        position: absolute;
+       top:50px;
+        left:400px;
+        padding:10px;
+    }
+}
+
+
+@media(min-width:1000px){
+    .container{
+    width:80%;
+    margin:auto;
+    padding:20px;
+    }
+    p{
+        text-transform: capitalize;
+        background-color: gray;
+        color: aquamarine;
+        border:1px solid black;
+        border-radius: 10px;
+        position: absolute;
+        top:50px;
+        left:500px;
+        padding:10px;
+    }
+}
